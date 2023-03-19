@@ -4,3 +4,8 @@
 # But not these files & folders
 !.gitignore
 !README.md
+!index.html
+!vite.config.js
+!package.json
+!src/
+!public/
