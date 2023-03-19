@@ -9,3 +9,6 @@
 !package.json
 !src/
 !public/
+
+# Local Netlify folder
+.netlify
