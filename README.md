@@ -1,8 +1,8 @@
-# Fundme-Vue
-Fund Me is an embeddable widget for people to post accounts and crypto wallets that people can qr and send cash to.
+# Kallery-Vue
+Kallery is an AI Auto Scheduler
 
 ### Web Link
-[Website](https://fundme-vue.netlify.app)
+[Website](https://kallery-vue.netlify.app)
 
 ### To Start
   - npm install
