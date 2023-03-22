@@ -1,8 +1,8 @@
-# Wishes-Vue
-Wishes lets users create a wishlist from multiple stores.
+# Fundme-Vue
+Fund Me is an embeddable widget for people to post accounts and crypto wallets that people can qr and send cash to.
 
 ### Web Link
-[Website](https://wishes-vue.netlify.app)
+[Website](https://fundme-vue.netlify.app)
 
 ### To Start
   - npm install

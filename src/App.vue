@@ -5,11 +5,11 @@ import HelloWorld from './views/HelloWorld.vue'
 <template>
   <div>
     <a href="https://vitejs.dev" target="_blank">
-      <img src="https://i.imgur.com/HO9ggsb.png" class="logo" alt="Vite logo" />
+      <img src="https://i.imgur.com/dlv4I2E.png" class="logo" alt="Vite logo" />
     </a>
   </div>
 
-  <h2>Wishes Vue App</h2>
+  <h2>FundMe Vue App </h2>
 <!--   <router-view></router-view> -->
 </template>
 
