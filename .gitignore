@@ -3,7 +3,7 @@
 
 !kallery-ng/
 !.gitignore
-!.caleb.sh
+!.alias.sh
 !.funcs.sh
 !.browserslistrc
 !README.md
