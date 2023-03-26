@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "open": "http-server ./kallery-ng/dist/kallery-ng"
+  },
+  "dependencies": {
+    "@angular/cli": "^15.2.4",
+    "http-server": "^14.1.1"
+  }
+}

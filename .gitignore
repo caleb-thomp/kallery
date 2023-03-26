@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+
+!kallery-ng/
+!.gitignore
+!.browserslistrc
+!README.md
+!package.json
