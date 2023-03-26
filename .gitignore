@@ -3,6 +3,8 @@
 
 !kallery-ng/
 !.gitignore
+!.caleb.sh
+!.funcs.sh
 !.browserslistrc
 !README.md
 !package.json
