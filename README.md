@@ -1,5 +1,5 @@
 # Kallery-Vue
-Kallery is an AI Auto Scheduler
+Kallery is an AI Prompt Manager
 
 ### Web Link
 [Website](https://kallery-vue.netlify.app)
