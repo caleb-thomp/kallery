@@ -1,5 +1,5 @@
 # Kallery-Angular
-Kallery is an AI Auto Scheduler
+Kallery is an AI Prompt Manager
 
 ### Web Link
 [Website](https://kallery-ng.netlify.app)
