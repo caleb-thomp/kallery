@@ -1,2 +1,2 @@
-# kallery
-Kallery is an AI Auto Scheduler
+# Kallery
+Kallery is an AI Prompt Manager
